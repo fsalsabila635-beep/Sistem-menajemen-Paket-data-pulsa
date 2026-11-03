@@ -40,7 +40,8 @@ Menu Admin
 Menu User
 <img width="5376" height="8008" alt="image" src="https://github.com/user-attachments/assets/803dc4d5-4617-4854-bf5c-4f1f68c17298" />
 
-Daftar Fitur Berdasarkan Role
+
+**Daftar Fitur Berdasarkan Role**
 
 Pada program Sistem Manajemen Paket Internet dan Pulsa, terdapat dua jenis pengguna, yaitu Admin dan User. Setiap role memiliki fitur dan hak akses yang berbeda sesuai dengan fungsinya.
 
