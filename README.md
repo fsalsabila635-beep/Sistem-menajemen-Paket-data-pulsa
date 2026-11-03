@@ -28,3 +28,14 @@ Tujuan
 3. Menerapkan pembagian hak akses Admin dan User.
 4. Memudahkan penyimpanan dan pengelolaan data menggunakan JSON.
 5. Menerapkan materi dasar pemrograman Python dalam sebuah proyek.
+
+# Flowchart
+
+Menu Utama
+<img width="5928" height="5128" alt="image" src="https://github.com/user-attachments/assets/17676dee-23ac-46a5-bdc3-ee1e869dc3ea" />
+
+Menu Admin
+<img width="6808" height="5728" alt="image" src="https://github.com/user-attachments/assets/6747561b-a6d0-44a1-89d8-33e5bf5e0d02" />
+
+Menu User
+<img width="5376" height="8008" alt="image" src="https://github.com/user-attachments/assets/803dc4d5-4617-4854-bf5c-4f1f68c17298" />
