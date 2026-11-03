@@ -176,9 +176,9 @@ Jika calon pembeli/pengguna memilih opsi 2 (Registrasi) pada menu utama, sistem 
 
 # Terminal (output) bagian login User
 <img width="534" height="252" alt="image" src="https://github.com/user-attachments/assets/10dea87b-af8a-4fb0-b599-71a16ce7e281" />
+
 jika user sudah registrasi maka akan di loginkan agar ketika login atau password
 sudah benar jika benar akan masuk ke tampilan menu jika salah akan bisa login kembali tapi ada batasnya hanya 3 kali saja 
-
 
 # Terminal (output) bagian menu User
 <img width="400" height="175" alt="image" src="https://github.com/user-attachments/assets/77491d49-719e-492c-9eef-e73165c0ba2f" />
